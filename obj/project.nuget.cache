@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOe6HYsh4JNDkxrN2OMCbwZDN6hU4/NzEfxIEnXVNO8gve1rQgM2JPGabiR6o+QnEXKp9RflU4ZVyipD47pxow==",
+  "success": true,
+  "projectFilePath": "/home/amit/Desktop/DOTNET/TuneInWeather/TuningInWeather/TuningInWeather.csproj",
+  "expectedPackageFiles": [
+    "/home/amit/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
